@@ -1,0 +1,1 @@
+docker run --gpus all -v C:\Users\MohammadJavad\OneDrive\Desktop\mjaliz\tfztm:/tf -p 8888:8888 tensorflow/tensorflow:2.13.0-gpu-jupyter
