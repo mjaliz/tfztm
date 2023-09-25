@@ -3,3 +3,5 @@ __pycache__
 .ipynb_checkpoints
 pizza_steak*
 10_food_classes_all_data*
+_MACOSX
+saved_trained_model_10
