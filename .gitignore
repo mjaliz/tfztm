@@ -2,6 +2,9 @@ venv
 __pycache__
 .ipynb_checkpoints
 pizza_steak*
-10_food_classes_all_data*
+10_food_classes*
 _MACOSX
 saved_trained_model_10
+.vscode
+__ MACOSX
+assets
